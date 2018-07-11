@@ -1,0 +1,23 @@
+span {
+  color: green;
+}
+
+p {
+	margin-top: 40px;
+	font-size: 22px;
+}
+
+button {
+	font-size: 18px;
+	margin-right: 5px;
+	background-color: #e3e6ea;
+}
+
+button:hover {
+	color: white;
+	background-color: #9297a0
+}
+
+button:focus {
+	outline: none;
+}
